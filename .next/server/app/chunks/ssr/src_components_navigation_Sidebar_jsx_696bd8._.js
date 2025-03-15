@@ -37,7 +37,7 @@ __turbopack_esm__({
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js (ecmascript, ssr)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$ai$2f$index$2e$esm$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/react-icons/ai/index.esm.js (ecmascript, ssr)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fi$2f$index$2e$esm$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/react-icons/fi/index.esm.js (ecmascript, ssr)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$gi$2f$index$2e$esm$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/react-icons/gi/index.esm.js (ecmascript, ssr)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$tb$2f$index$2e$esm$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/react-icons/tb/index.esm.js (ecmascript, ssr)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$navigation$2f$NavLink$2e$jsx__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/components/navigation/NavLink.jsx (ecmascript, ssr)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/next/link.js (ecmascript, ssr)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$AuthContext$2e$js__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/context/AuthContext.js (ecmascript, ssr)");
@@ -66,13 +66,13 @@ const Sidebar = ()=>{
                 className: "app-logo",
                 href: "/",
                 children: [
-                    __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$gi$2f$index$2e$esm$2e$js__$28$ecmascript$29$__["GiMusicSpell"], {}, void 0, false, {
+                    __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$tb$2f$index$2e$esm$2e$js__$28$ecmascript$29$__["TbBrandDeezer"], {}, void 0, false, {
                         fileName: "<[project]/src/components/navigation/Sidebar.jsx>",
                         lineNumber: 22,
-                        columnNumber: 9
+                        columnNumber: 7
                     }, this),
                     __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$28$ecmascript$29$__["jsxDEV"]("span", {
-                        children: "Spotifake"
+                        children: "Freezer"
                     }, void 0, false, {
                         fileName: "<[project]/src/components/navigation/Sidebar.jsx>",
                         lineNumber: 23,

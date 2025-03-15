@@ -1,6 +1,6 @@
 Error.stackTraceLimit = 100;
 global.self = global;
-require("./_fea54b._.js");
+require("./_4c029b._.js");
 require("./[next]_polyfill_app-polyfills_ts_eb1b87._.js");
 require("./[next]_internal_headers_ts_c10b0a._.js");
 require("./[next]_internal_http_ts_be673d._.js");
@@ -22,4 +22,4 @@ require("./src_components_others_TopArtistsContainer_jsx_8036d9._.js");
 require("./src_utils_fetchers_764753.js");
 require("./src_utils_formatters_4a52c0.js");
 require("./[next]_entry_app-renderer_tsx_a36613._.js");
-require("./[next]_entry_app-renderer_tsx_fdf3d0._.js");
+require("./[next]_entry_app-renderer_tsx_550605._.js");

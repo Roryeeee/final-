@@ -1,6 +1,6 @@
 Error.stackTraceLimit = 100;
 global.self = global;
-require("./_7e68f0._.js");
+require("./_a406ea._.js");
 require("./[next]_polyfill_app-polyfills_ts_5f46d7._.js");
 require("./[next]_internal_headers_ts_99bc4d._.js");
 require("./[next]_internal_http_ts_2b10e5._.js");
@@ -21,4 +21,4 @@ require("./[next]_entry_app_server-to-client-ssr_tsx_d91596._.js");
 require("./[next]_entry_app_layout-entry_tsx_b53fce._.js");
 require("./[next]_entry_app_layout-entry_tsx_f6fb64._.js");
 require("./[next]_entry_app-renderer_tsx_eb813f._.js");
-require("./[next]_entry_app-renderer_tsx_65c31a._.js");
+require("./[next]_entry_app-renderer_tsx_8ba958._.js");

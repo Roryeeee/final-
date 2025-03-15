@@ -1,7 +1,7 @@
 "use client";
 import { AiFillHome, AiFillGithub } from "react-icons/ai";
 import { FiMusic, FiUsers, FiHeart } from "react-icons/fi";
-import { GiMusicSpell } from "react-icons/gi";
+import { TbBrandDeezer } from "react-icons/tb";
 import NavLink from "./NavLink";
 import Link from "next/link";
 import { useAuth } from "@/context/AuthContext";
@@ -19,8 +19,8 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <Link className="app-logo" href="/">
-        <GiMusicSpell />
-        <span>Spotifake</span>
+      <TbBrandDeezer />
+        <span>Freezer</span>
       </Link>
 
       <div>
