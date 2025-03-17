@@ -61,7 +61,7 @@ __turbopack_esm__({
 });
 const chunks = [
   {
-    "path": "_next/static/chunks/node_modules_dde600._.js",
+    "path": "_next/static/chunks/node_modules_f2fc43._.js",
     "included": [
       "[project]/node_modules/@radix-ui/number/dist/index.mjs (ecmascript)",
       "[project]/node_modules/@radix-ui/primitive/dist/index.mjs (ecmascript)",
@@ -79,7 +79,7 @@ const chunks = [
       "[project]/node_modules/@radix-ui/react-slider/dist/index.mjs (ecmascript)",
       "[project]/node_modules/react-icons/ai/index.esm.js (ecmascript)",
       "[project]/node_modules/react-icons/fi/index.esm.js (ecmascript)",
-      "[project]/node_modules/react-icons/gi/index.esm.js (ecmascript)",
+      "[project]/node_modules/react-icons/tb/index.esm.js (ecmascript)",
       "[project]/node_modules/react-icons/md/index.esm.js (ecmascript)",
       "[project]/node_modules/react-icons/lib/esm/index.js (ecmascript)",
       "[project]/node_modules/next/navigation.js (ecmascript)",
